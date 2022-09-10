@@ -9,11 +9,11 @@ const displayBox2_div = document.querySelectorAll("#displayBox2 div")
 
 let foodBox = []
 let drinkBox = []
-let foodDrink_img = ["/dist/img/12-2-drink-png-5.png","/dist/img/54481-3-ice-milk-picture-free-clipart-hd.png","/dist/img/4-2-drink-png.png"]
+let foodDrink_img = ["dist/img/12-2-drink-png-5.png","dist/img/54481-3-ice-milk-picture-free-clipart-hd.png","dist/img/4-2-drink-png.png"]
 let foodDrink_name = ["Coca Cola","Milky Shake","Ocean Breeze"]
 let foodDrink_price = ["Rp10.000","Rp15.000","Rp15.000"]
 let foodDrink_desc = ["Enakan ini daripada pepsi","Susu yang dikocok","Kukubima energy tapi warna biru"]
-let foodDish_img = ["/dist/img/PngItem_1643418.png","/dist/img/PngItem_4620165.png","/dist/img/PngItem_4625824.png"]
+let foodDish_img = ["dist/img/PngItem_1643418.png","dist/img/PngItem_4620165.png","dist/img/PngItem_4625824.png"]
 let foodDish_name =["Pizza Meaty Brocolli","Pizza Meaty Cheese","Pizza Tomato Cheese"]
 let foodDish_price =["Rp50.000","Rp70.000","Rp52.500"]
 let foodDish_desc =["Pizza dengan topping daging dan brokoli","Pizza dengan topping daging dan keju","Pizza dengan topping tomat dan keju"]
