@@ -9,7 +9,7 @@ const displayBox2_div = document.querySelectorAll("#displayBox2 div")
 
 let foodBox = []
 let drinkBox = []
-let foodDrink_img = ["dist/img/12-2-drink-png-5.png","dist/img/54481-3-ice-milk-picture-free-clipart-hd.png","dist/img/4-2-drink-png.png"]
+let foodDrink_img = ["dist/img/cocaCola.png","dist/img/54481-3-ice-milk-picture-free-clipart-hd.png","dist/img/4-2-drink-png.png"]
 let foodDrink_name = ["Coca Cola","Milky Shake","Ocean Breeze"]
 let foodDrink_price = ["Rp10.000","Rp15.000","Rp15.000"]
 let foodDrink_desc = ["Enakan ini daripada pepsi","Susu yang dikocok","Kukubima energy tapi warna biru"]
